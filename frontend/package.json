@@ -69,7 +69,7 @@
     "bourbon": "~5.1.0",
     "bowser": "^1.9.4",
     "bundle-loader": "^0.5.4",
-    "chart.js": "2.7.3",
+    "chart.js": "2.9.4",
     "clean-webpack-plugin": "^1.0.0",
     "codemirror": "^5.42.0",
     "contra": "^1.9.4",
